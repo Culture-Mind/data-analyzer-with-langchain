@@ -1,0 +1,7 @@
+panel
+langchain
+langchain_experimental
+pandas
+plotly
+python-dotenv
+langchain_community
